@@ -1,0 +1,11 @@
+soundfile
+speechpy
+librosa
+torch
+torchvision
+tensorboardX
+torchsummary
+matplotlib
+cycler
+kiwisolver
+pyparsing
